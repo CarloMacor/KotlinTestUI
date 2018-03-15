@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#379bb9</color>
+    <color name="colorPrimaryDark">#e6e6e6</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorTrasparent">#00000000</color>
+    <color name="colorSemiTrasparent">#55000000</color>
+
+    <color name="colorMyBlack">#000000</color>
+    <color name="colorMyWhite">#FFFFFF</color>
+
+    <color name="colorMyBackGrey">#444444</color>
+
+
+    <color name="colorGrayMainComment1">#505050</color>
+    <color name="colorGrayMainComment2">#909090</color>
+
+    <color name="colorGrayDateTime">#bfbfbf</color>
+
+    <color name="colorGraySubMainComment">#ededed</color>
+
+    <color name="colorBackCard">#ffffff</color>
+
+</resources>

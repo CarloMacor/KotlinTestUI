@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/hcard_subcomment"  >
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/idSubPicAuthor"
+            android:paddingTop="@dimen/padding_subcomment"
+            android:src="@drawable/pic4"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:layout_weight="3"
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp">
+
+                <TextView
+                    android:id="@+id/idSubNameAuthor"
+                    android:text="Peter Robinson :"
+                    android:textColor="@color/colorGrayMainComment1"
+                    android:textSize="@dimen/htxtname_subcomment"
+                    android:textStyle="italic|bold"
+                    android:paddingTop="@dimen/padding_subcomment"
+                    android:layout_weight="7"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent" />
+
+                <TextView
+                    android:id="@+id/idDateSubComment"
+                    android:text="AUG 17,2014"
+                    android:textSize="@dimen/hdate_subcomment"
+                    android:textColor="@color/colorGrayDateTime"
+                    android:paddingTop="@dimen/paddate_subcomment"
+                    android:layout_weight="4"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent" />
+
+            </LinearLayout>
+
+
+
+
+
+            <TextView
+                android:id="@+id/idSubComment"
+                android:text="Bruges is small and beautiful city, you can enjoi walking there."
+                android:textSize="@dimen/h3txt_subcomment"
+                android:textColor="@color/colorGrayMainComment2"
+                android:textStyle="italic"
+                android:layout_marginRight="@dimen/rightpad_subcomment"
+                android:layout_weight="2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp" />
+
+
+        </LinearLayout>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+</android.support.v7.widget.CardView>

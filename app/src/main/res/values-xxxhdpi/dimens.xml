@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- dimension for card_row.xml -->
+    <dimen name="dim_cardrow">200dp</dimen>
+    <dimen name="margin_cardrow">24dp</dimen>
+    <dimen name="authorname_cardrow">16dp</dimen>
+    <dimen name="comment_cardrow">12dp</dimen>
+    <dimen name="number_cardrow">10dp</dimen>
+    <dimen name="padding_cardrow">8dp</dimen>
+    <dimen name="padding_topnumber_cardrow">2dp</dimen>
+    <dimen name="weight_image_cardrow">3</dimen>
+    <dimen name="weight_post_cardrow">2</dimen>
+
+
+    <!-- dimension for main_comment.xml -->
+    <dimen name="padding_maincomment">8dp</dimen>
+    <dimen name="halfpadding_maincomment">4dp</dimen>
+    <dimen name="authorname_maincomment">18dp</dimen>
+    <dimen name="comment_maincomment">16dp</dimen>
+    <dimen name="number_maincomment">14dp</dimen>
+    <dimen name="rigthpad_maincomment">64dp</dimen>
+    <dimen name="hcard_maincomment">120dp</dimen>
+
+    <!-- dimension for fragment_over.xml -->
+    <dimen name="h1txt_overfrag">60dp</dimen>
+
+    <!-- dimension for other_commentxml -->
+    <dimen name="hcard_subcomment">120dp</dimen>
+    <dimen name="padding_subcomment">8dp</dimen>
+    <dimen name="hdate_subcomment">14dp</dimen>
+    <dimen name="rightpad_subcomment">56dp</dimen>
+    <dimen name="htxtname_subcomment">20dp</dimen>
+    <dimen name="h3txt_subcomment">16dp</dimen>
+    <dimen name="paddate_subcomment">12dp</dimen>
+
+
+</resources>
